@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Production build output
+.vitepress/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
